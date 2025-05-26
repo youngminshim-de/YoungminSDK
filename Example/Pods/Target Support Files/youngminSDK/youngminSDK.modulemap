@@ -1,0 +1,6 @@
+framework module youngminSDK {
+  umbrella header "youngminSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
